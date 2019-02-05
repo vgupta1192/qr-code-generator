@@ -7,7 +7,7 @@ QR Code Generator App based on angular 6 with Material Bootstrap.
 
 
 ## Demo
-You may want to have a look at the demo: https://vgupta1192.github.io/live-currency-demo/
+You may want to have a look at the demo: https://vgupta1192.github.io/qr-code-generator/
 
 ### Dependencies
 ```
